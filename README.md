@@ -4,6 +4,8 @@ Based on ungoogled-chromium project browser with integrated extensions for ad-bl
 
 ## Downloads
 
+[Download bins page](https://ninja-browser.github.io/ninja-browser/).
+
 ## Building
 
 * follow instructions from [googled-chromium-window](https://github.com/ungoogled-software/ungoogled-chromium-windows) project to setting up the build environment and build base Chromium
